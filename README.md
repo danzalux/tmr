@@ -25,3 +25,7 @@ docker run -d --name=tmr \
 * INTERVAL="10:00,…" - значение времени когда будут пересобраны данные
 * RSS_URL=url - адрес фида
 * BASICAUTH=login:pass - вебсервер требует авторизации
+
+#### Слежение за цифровыми релизами (Origin)
+https://habr.com/ru/articles/443584/#comment_19898842
+https://habr.com/ru/articles/443584/
